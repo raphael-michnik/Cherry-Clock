@@ -1,6 +1,4 @@
-# Cherry-Clock
-
-# PomodoroBasic (Qt/C++)
+# Cherry Clock
 
 A minimal **menu bar Pomodoro timer** for macOS (works on Linux/Windows too, minus AppleScript), written in **C++20 + Qt 6**.
 
